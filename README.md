@@ -40,3 +40,4 @@ git add --chmod=+x scripts/bisect_demo_init.sh
 ## ADR (пример)
 Создайте `docs/adr/0001-dev-environment.md` по шаблону из курса.
 
+  
